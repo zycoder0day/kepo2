@@ -1,0 +1,4 @@
+User-agent: *
+Allow:
+
+sitemap: https://poken.tapselkab.go.id/css/sitemap.xml
